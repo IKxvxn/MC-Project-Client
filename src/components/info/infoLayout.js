@@ -79,7 +79,7 @@ class infoLayout extends Component {
                         <CartoonContainer cartoonKey={1} />
                     </Col>
                 </Row>
-                <Divider>Apectos Técnicos</Divider>
+                <Divider>Aspectos Técnicos</Divider>
                 <Row gutter={[8, 8]} justify="space-between">
                     <Col xs={0} sm={12} md={8} lg={8} xl={8}>
                         <CartoonContainer cartoonKey={0} />
