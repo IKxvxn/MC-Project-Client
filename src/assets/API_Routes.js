@@ -1,3 +1,4 @@
-export const AUTH = 'http://localhost:8079/auth'
-export const HOME = 'http://localhost:8079/home'
-export const QUIZZ = 'http://localhost:8079/quizz'
+const SERVER_ROOT = "https://reactacserver.herokuapp.com/"
+export const AUTH = SERVER_ROOT+'auth'
+export const HOME = SERVER_ROOT+'home'
+export const QUIZZ = SERVER_ROOT+'quizz'
